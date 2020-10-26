@@ -1,0 +1,7 @@
+C:\Users\seija\source\repos\Kontaktbok\Kontaktbok\bin\Debug\Kontaktbok.exe.config
+C:\Users\seija\source\repos\Kontaktbok\Kontaktbok\bin\Debug\Kontaktbok.exe
+C:\Users\seija\source\repos\Kontaktbok\Kontaktbok\bin\Debug\Kontaktbok.pdb
+C:\Users\seija\source\repos\Kontaktbok\Kontaktbok\obj\Debug\Kontaktbok.csprojAssemblyReference.cache
+C:\Users\seija\source\repos\Kontaktbok\Kontaktbok\obj\Debug\Kontaktbok.csproj.CoreCompileInputs.cache
+C:\Users\seija\source\repos\Kontaktbok\Kontaktbok\obj\Debug\Kontaktbok.exe
+C:\Users\seija\source\repos\Kontaktbok\Kontaktbok\obj\Debug\Kontaktbok.pdb
